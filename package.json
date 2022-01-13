@@ -1,0 +1,19 @@
+{
+  "name": "javascriptproject3",
+  "version": "1.0.0",
+  "description": "news app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivyanshSingh786/All-India_news.git"
+  },
+  "author": "Divyansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivyanshSingh786/All-India_news/issues"
+  },
+  
+}
